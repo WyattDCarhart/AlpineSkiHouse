@@ -1,0 +1,7 @@
+/home/harmony/Desktop/git-repos/AlpineSkiHouse/AlpineSkiHouse/bin/Publish/AlpineSkiHouse
+/home/harmony/Desktop/git-repos/AlpineSkiHouse/AlpineSkiHouse/bin/Publish/appsettings.Development.json
+/home/harmony/Desktop/git-repos/AlpineSkiHouse/AlpineSkiHouse/bin/Publish/appsettings.json
+/home/harmony/Desktop/git-repos/AlpineSkiHouse/AlpineSkiHouse/bin/Publish/AlpineSkiHouse.dll
+/home/harmony/Desktop/git-repos/AlpineSkiHouse/AlpineSkiHouse/bin/Publish/AlpineSkiHouse.deps.json
+/home/harmony/Desktop/git-repos/AlpineSkiHouse/AlpineSkiHouse/bin/Publish/AlpineSkiHouse.runtimeconfig.json
+/home/harmony/Desktop/git-repos/AlpineSkiHouse/AlpineSkiHouse/bin/Publish/AlpineSkiHouse.pdb

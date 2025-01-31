@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/9e184b70-490d-4203-83c1-68f9db23630d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/hw1-harmony",
+  "appService.deploySubpath": "bin/Publish"
+}
